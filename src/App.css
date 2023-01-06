@@ -25,11 +25,14 @@ main {
   background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
   color: white;
   padding: 1.25em;
+  min-width: 100vw;
+  
 }
 
 .header--image {
   height: 100%;
   margin-right: 0.375em;
+  margin-left: 0.375em;
 }
 
 .header--title {
